@@ -1,0 +1,35 @@
+.google{
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  padding-top: 10px;
+  padding-bottom: 0.5px;
+  transform: scale(0.8);
+  }
+.container{
+text-align: center;
+}
+.buttons{
+  text-align: center;
+  padding-top: 30px;
+}
+#google-search{
+  background-color: whitesmoke;
+  border:1px solid whitesmoke;
+  font-size: 15px;
+}
+#feeling-lucky{
+  background-color: whitesmoke;
+  border:1px solid whitesmoke;
+  font-size: 15px;
+}
+p{
+  text-align: center;
+  font-size: 15px;
+}
+.gcse-search{
+  width: 450px;
+  line-height: 32px;
+  padding:0px 5px;
+  border: 1px ridge whitesmoke;
+}
